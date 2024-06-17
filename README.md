@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi there 👋 <br />
+I am Frontend Developer with 2.5 years of education in web development. My main focus is on React and Next.js application development. I have also experience in using TypeScript, Tailwind CSS, React Query, Storybook, MUI, Axios.
+I am looking for my first job in development, where I can apply and expand my skills in a collaborative team.
 
-<!--
-**VcelakMarek/VcelakMarek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Skills**
 
-Here are some ideas to get you started:
+- React
+- Next.js
+- TypeScript
+- TailwindCSS
+- React Query
+- Storybook
+- MUI
+- Axios
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Feel free to check my [portfolio](https://vcelakmarek.github.io/Portfolio/)**.

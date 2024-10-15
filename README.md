@@ -7,10 +7,16 @@ I am looking for my first job in development, where I can apply and expand my sk
 - React
 - Next.js
 - TypeScript
-- TailwindCSS
 - React Query
-- Storybook
+- TailwindCSS
 - MUI
+- React Final Form
+- Yup
+- Storybook
+- Lodash
 - Axios
+- ESLint
+- Prettier
+- Vite
 
 **Feel free to check my [portfolio](https://vcelakmarek.github.io/Portfolio/)**.
